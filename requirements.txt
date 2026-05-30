@@ -1,0 +1,6 @@
+streamlit
+tensorflow
+librosa
+numpy
+pyngrok
+audio-recorder-streamlit
